@@ -1,0 +1,4 @@
+sitemap checking script
+---
+
+Script to check response codes for all urls present in a provided sitemap.
